@@ -1,0 +1,17 @@
+[package]
+name = "assets_application"
+version = "0.1.0"
+authors = ["M. Gage Morgan <gage@christoffen.com>"]
+
+[dependencies]
+png = "0.9.0"
+gdk = "0.5.3"
+clap = "2.25.1"
+
+[dependencies.cairo-rs]
+version = "0.1.3"
+features = ["png"]
+
+[dependencies.gtk]
+version = "0.1.3"
+features = ["v3_16"]
