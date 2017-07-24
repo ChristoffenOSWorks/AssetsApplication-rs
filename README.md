@@ -73,5 +73,8 @@ I still don't know everything about programming, and tbh I probably never will. 
 
 Consider this a response to our pipe dream: ```hypox```. I don't have time currently to make that a reality. 
 
+## Missing Features
+Due to redundancy, only the colored and outlined logos can be generated at this time. The frankenlogos and failure that was the monitor icon may or may not be implemented at a later date.
+
 ## Christoffen Status
 Our **SIX-YEAR-PLAN** involves planning activity dropping from 2018-2022, and having been put back on the rails after 2024. This is to ensure Clark and I have jobs in our qualified fields, and we will continue operating Christoffen as a side project until profits increase enough to allow us to quit our "real jobs" aka *life support*.
